@@ -1,6 +1,6 @@
 ## WIP
 
-# Bowling Pro
+# CricLens
 Sports analytics app for casual cricket bowlers
 
 # Market Opportunity & Competitors
